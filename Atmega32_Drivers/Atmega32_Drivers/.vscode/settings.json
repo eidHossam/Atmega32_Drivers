@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "lcd_interface.h": "c",
+        "atmega32_timer0.h": "c",
+        "atmega32_wdt_interface.h": "c",
+        "atmega32_adc.h": "c",
+        "atmega32_spi.h": "c",
+        "atmega32_gpio.h": "c",
+        "servo_motor_interface.h": "c"
+    }
+}
